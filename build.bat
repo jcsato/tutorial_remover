@@ -1,7 +1,7 @@
 @echo off
 
 set modname=sato_tutorial_remover
-set version=0.1
+set version=0.2
 
 echo.
 echo Creating temporary directory...
